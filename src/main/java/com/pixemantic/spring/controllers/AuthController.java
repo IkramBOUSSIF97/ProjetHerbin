@@ -32,7 +32,7 @@ import com.pixemantic.spring.models.User;
 import com.pixemantic.spring.repository.RoleRepository;
 import com.pixemantic.spring.repository.UserRepository;
 
-
+//test
 
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
